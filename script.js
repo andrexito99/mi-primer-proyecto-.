@@ -1,3 +1,3 @@
 function mostrarMensaje() {
-    alert("Git y GitHub funcionan correctamente con VS Code");
+    alert("Sisas cole, el visual funcionó a la perfección con Git");
 }
